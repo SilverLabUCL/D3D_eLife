@@ -17,10 +17,15 @@ Once the java code has been compiled and executed, a GUI will be created with an
 
 Note, simulations with "Torok iPSF" may take a while to initialize.
 
+D3D will run on most machines which run Java. Install Java J2SE 5 or higher. It's better to download the JDK (Java Development Kit) which includes command line tools for Java.
+
 D3D was created by the The Silver Lab -
 R. Angus Silver - Department of Neuroscience, Physiology & Pharmacology -
 University College London - Gower Street - London WC1E 6BT - UK
 
 http://silverlab.org/
 
-Java code was written by Jason Rothman
+Java code was written by Jason Rothman.
+
+For more information contact j.rothman@ucl.ac.uk
+
