@@ -1,0 +1,1 @@
+java -Xmx800M -cp dist/D3D.jar ucl.silver.d3d.core.StartD3D -CubeLength 1.0 -ImmobileVesiclesPercent 20
