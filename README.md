@@ -4,8 +4,8 @@ This is a distribution of D3D, a software package for computing diffusion-reacti
 "Physical determinants of vesicle mobility and supply at a central synapse"
 Rothman JS, Kocsis L, Herzog E, Nusser Z, Silver RA
 eLife. 2016 Aug 19.
-pii: e15133
-doi: 10.7554/eLife.15133
+pii: e15133.
+doi: 10.7554/eLife.15133.
 
 Once the java code has been compiled and executed, a GUI will be created with an "eLife" menu at the top. Users can select which simulation to initialize via the following menu items:
 
